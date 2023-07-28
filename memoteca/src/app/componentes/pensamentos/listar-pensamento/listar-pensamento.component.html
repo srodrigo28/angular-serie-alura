@@ -1,7 +1,18 @@
 <p>listar-pensamento works!</p>
 <section class="container">
-  <div class="header d-flex">
+  <header class="header d-flex">
     <h2 class="ff-inter">Meu Mural</h2>
     <button routerLink="/criarPensamento" class="botao">Adicionar pensamento</button>
+  </header>
+  <div class="mural" *ngIf="listaPensamentos.length > 0, else semPensamentos">
+    <div class="div" *ngFor=" let item of listaPensamentos ">
+      <app-pensamento [pensamento]="item"></app-pensamento>
+    </div>
   </div>
 </section>
+
+<ng-template #semPensamentos>
+  <div class="ff-inter sem-pensamentos">
+    <p>Ainda não há pensamentos cadastrados!</p>
+  </div>
+</ng-template>
