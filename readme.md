@@ -1,7 +1,10 @@
 # Sequências Angular
 
 ## Referências
-
+* Configurar rota
+``` 
+app-routing.module
+```
 ``` Instalando a biblioteca @angular/Cli
 npm install -g @angular/cli@14.0.0
 ```
