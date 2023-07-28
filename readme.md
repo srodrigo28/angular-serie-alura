@@ -40,6 +40,10 @@ https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---Angular%3A-Come%C3%
 https://cursos.alura.com.br/course/angular-explorando-framework/task/110725
 ```
 
+``` packge.json config start
+"start": "json-server --watch db.json --port 3000"
+```
+
 ```
 ng new memoteca
 ```
