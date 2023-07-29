@@ -7,36 +7,6 @@
       "modelo": "modelo1"
     },
     {
-      "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Dev Alura",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "Angular é o melhor",
-      "autoria": "Dev Alura",
-      "modelo": "modelo3"
-    },
-    {
-      "id": 4,
-      "conteudo": "Curso Angular Vue",
-      "autoria": "Sebastião Rodrigo",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 5,
-      "conteudo": "Curso Angular Vue 2",
-      "autoria": "Sebastião Rodrigo",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 6,
-      "conteudo": "Curso Angular Vue 3",
-      "autoria": "Sebastião Rodrigo",
-      "modelo": "modelo2"
-    },
-    {
       "conteudo": "Pagar as Contas",
       "autoria": "Sebastião Rodrigo",
       "modelo": "modelo2",
@@ -47,12 +17,6 @@
       "autoria": "Sebastião Rodrigo Nascimento Sousa",
       "modelo": "modelo3",
       "id": 8
-    },
-    {
-      "conteudo": "Pagar Escola 2 meses atrazados",
-      "autoria": "Sebastião Rodrigo Nascimento Sousa",
-      "modelo": "modelo1",
-      "id": 9
     }
   ]
 }
