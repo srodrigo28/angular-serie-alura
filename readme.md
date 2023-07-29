@@ -29,7 +29,7 @@ http://localhost:4200
 ng g c shared/header
 ```
 
-## Projeto Crud 1 ( 10hs )
+## Projeto Crud 1 ( 10hs Concluído )
 ### Projeto Versão 14
 * Figma do Projeto Memoteca
 ```
@@ -64,7 +64,11 @@ Além disso, vai realizar requisições HTTP com a ferramenta HTTP Client, utili
 * Componentização design com Angular
 
 ```
-npm install -g @angular/cli@16.0.0.
+npm install -g @angular/cli@16.0.0
+```
+
+``` Angular Material
+ng add @angular/material
 ```
 
 ```
