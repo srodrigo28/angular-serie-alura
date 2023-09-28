@@ -1,82 +1,30 @@
-# Sequências Angular
+## Serie Alugra Angular
 
-## Referências
-* Configurar rota
-``` 
-app-routing.module
+* Carga Horária Inicial :: 35h
+* Link da formação 
 ```
-``` Instalando a biblioteca @angular/Cli
-npm install -g @angular/cli@14.0.0
+https://cursos.alura.com.br/formacao-aplicacoes-escalaveis-angular
 ```
-
-``` Criando o primeiro projeto
-ng new project
+### 4 Projetos Iniciais
+* 1. :: Angular: componentização e design com Angular Material
+* Carca horaria :: 08H
 ```
-
-``` Entrando na pasta do projeto
-cd project
+https://cursos.alura.com.br/course/angular-componentizacao-design-angular-material
 ```
 
-``` Executando o projeto
-ng serve
+* 2. :: Angular: componentização, formulários e interação com APIs
+```
+https://cursos.alura.com.br/course/angular-componentizacao-formularios-interacao-apis
 ```
 
-``` Endereço padrão do angula
-http://localhost:4200
+* 3. :: Angular: trabalhando com Tokens JWT na autenticação e cadastro
+* Carca horaria :: 10H
+```
+https://cursos.alura.com.br/course/angular-tokens-jwt-autenticacao-cadastro
 ```
 
-``` Criando components
-ng g c shared/header
+* 4. :: Angular: buscando, filtrando e exibindo dados de uma API
+* Carca horaria :: 08H
 ```
-
-## Projeto Crud 1 ( 10hs Concluído )
-### Projeto Versão 14
-* Figma do Projeto Memoteca
-```
-https://www.figma.com/file/YTSUBbe7Zgwx3L567TAzTc/Memoteca---Angular%3A-Come%C3%A7ando-com-o-Framework?type=design&node-id=148-26&mode=design
-```
-* Memoteca
-```
-https://cursos.alura.com.br/course/angular-explorando-framework/task/110725
-```
-
-``` packge.json config start
-"start": "json-server --watch db.json --port 3000"
-```
-
-```
-ng new memoteca
-```
-### Comandos usados
-```
-ng generate component componentes/cabecalho
-```
-
-``` Git do Curso
-https://github.com/alura-cursos/2438-angular-memoteca/blob/aula-1/src/app/componentes/rodape/rodape.component.html
-```
-
-###
-Além disso, vai realizar requisições HTTP com a ferramenta HTTP Client, utilizando os métodos get, post, put e delete.
-
-## Componentização e Design com Angular Material Duo 2 Theater ( 08hs )
-### Projeto Versão 16 tentando usar a versão cli@14
-* Componentização design com Angular
-
-```
-npm install -g @angular/cli@16.0.0
-```
-
-``` Angular Material
-ng add @angular/material
-```
-
-```
-https://cursos.alura.com.br/course/angular-componentizacao-design-angular-material/task/132310
-```
-
-## Projeto 3 Formulários com APIs ( 08hs )
-* Componentização design com Angular
-```
-https://cursos.alura.com.br/course/angular-componentizacao-formularios-interacao-apis/task/134121
+https://cursos.alura.com.br/course/angular-buscando-filtrando-exibindo-dados-api
 ```
