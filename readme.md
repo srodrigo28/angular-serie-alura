@@ -1,11 +1,12 @@
 ## Serie Alugra Angular
 
+### Informações Gerais
 * Carga Horária Inicial :: 35h
 * Link da formação 
 ```
 https://cursos.alura.com.br/formacao-aplicacoes-escalaveis-angular
 ```
-### 4 Projetos Iniciais
+### 4 Projetos Iniciais Link
 * 1. :: Angular: componentização e design com Angular Material
 * Carca horaria :: 08H
 ```
@@ -28,3 +29,6 @@ https://cursos.alura.com.br/course/angular-tokens-jwt-autenticacao-cadastro
 ```
 https://cursos.alura.com.br/course/angular-buscando-filtrando-exibindo-dados-api
 ```
+
+### 5 Projetos Mapas
+* Jornada Milhas
